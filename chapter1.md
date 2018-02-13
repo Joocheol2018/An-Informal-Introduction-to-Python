@@ -1,39 +1,31 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## 계산기처럼 사용하기
 
 ```yaml
-type: NormalExercise
-lang: python
-xp: 100
-skills: 2
-key: 545d150d1e
+type: MultipleChoiceExercise
+
+xp: 
+
+key: 86874a7f43
 ```
 
+계산기처럼 사용할 수 있습니다.
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
